@@ -1,4 +1,4 @@
-# 基于SSM框架的新闻管理系统
+# [基于SSM框架的新闻管理系统](https://mp.weixin.qq.com/s/udazfpI4wjryAtggLLnI5Q)
 
 
 ### 前言
@@ -151,4 +151,8 @@ zjzhou
 
     一个爱学习、爱分享、爱交流的程序员；
     
-    欢迎关注个人微信公众号【Java烂笔头】，一起交流、共同进步；
+    欢迎关注个人微信公众号【[Java烂笔头](https://mp.weixin.qq.com/s/udazfpI4wjryAtggLLnI5Q)】，一起交流、共同进步；
+
+ **课程设计、毕业设计等代码开发问题有偿指导（因人力、精力有限，望理解）** ，小助手微信如下；
+
+    ![输入图片说明](%E5%B0%8FZ%E5%90%8C%E5%AD%A6.jpg)
