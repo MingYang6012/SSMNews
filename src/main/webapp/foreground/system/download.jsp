@@ -2,8 +2,8 @@
     pageEncoding="UTF-8" isELIgnored="false" isErrorPage="true"%>
 <div class="data_list">
 	<div class="data_list_title">
-		<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzI5NTExMTE3OA==&hid=1&sn=0900087a8d9d4921105072fd0cb24e33"><img src="${pageContext.request.contextPath}/static/images/download_icon.png"/></a>
-		源码获取
+		<a href="https://github.com/MingYang6012/SSMNews.git"><img src="${pageContext.request.contextPath}/static/images/download_icon.png"/></a>
+		github源码获取
 	</div>
 	<div>
 	<p>
@@ -11,10 +11,10 @@
 </p>
 
 <p>
-    使用Spring+Springmvc+Mybatis架构，
+    后端搭建使用Spring+Springmvc+Mybatis架构，
 </p>
 <p>
-    采用Mysql数据库；
+    程序数据存储采用Mysql数据库；
 </p>
 
 <p>
@@ -27,7 +27,7 @@
             修改个人信息功能允许上传个人头像
         </p>
 <p>
-    在线编辑器使用了百度的UEditor；
+    在线编辑器使用了百度的UEditor;
 </p>
 </div>
 </div>

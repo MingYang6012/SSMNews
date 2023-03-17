@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>新闻中心</title>
+<title>校园新闻</title>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/static/jquery-easyui-1.3.3/themes/default/easyui.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/static/jquery-easyui-1.3.3/themes/icon.css">
 <script type="text/javascript" src="${pageContext.request.contextPath}/static/jquery-easyui-1.3.3/jquery.min.js"></script>
@@ -150,7 +150,7 @@
 	</div>
 </div>
 <div region="south" style="height: 25px;padding: 5px" align="center">
-	javanoteany 新闻中心
+	javanoteany 校园新闻
 </div>
 
 <div id="dlg" class="easyui-dialog" style="width:400px;height:200px;padding: 10px 20px"

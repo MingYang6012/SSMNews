@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>新闻中心</title>
+    <title>校园新闻</title>
     <script src="${pageContext.request.contextPath}/static/bootstrap3/js/jquery-1.11.2.min.js"></script>
     <STYLE>
         body{
@@ -205,7 +205,7 @@
     </DIV>
 </form>
 <div style="text-align:center;padding-top: 30px">
-    Javanoteany 新闻中心
+    Javanoteany 校园新闻
 </div>
 </body>
 </html>
