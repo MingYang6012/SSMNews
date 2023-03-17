@@ -3,7 +3,7 @@
 <div class="row">
 	<div class="col-md-12" >
 		<div align="center" style="padding-top: 120px" >
-			Javanoteany 【Java烂笔头】新闻中心
+			Javanoteany 新闻中心
 		</div>
 	</div>
 </div>
